@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.2"
+  },
+  "name": "vs-coding-node-js",
+  "version": "1.0.0",
+  "main": "ES6-variable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samadpr/Brototype-WebDevelopment-class-all-projects.git"
+  },
+  "author": "Abdul Samad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samadpr/Brototype-WebDevelopment-class-all-projects/issues"
+  },
+  "homepage": "https://github.com/samadpr/Brototype-WebDevelopment-class-all-projects#readme",
+  "description": ""
 }
